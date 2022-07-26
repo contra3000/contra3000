@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @contra3000
+- 👀 I’m interested in BackEnd
+- 🌱 I’m currently learning a little bit of several languajes 
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me at contra3000@gmail.com
